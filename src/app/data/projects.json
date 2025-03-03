@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Full stack AirBnb clone",
+    "description": "In 2024 I particpated in a coding bootcamp where where I worked in a team and learned how to build a full stack application. I decided to build an AirBnb clone as my final project. The project was built with React, Node.js, Express, and SQL.",
+    "image": "/portfolio/harebnb-screenshots.webp",
+    "githubLink": "https://github.com/PhilJG/B11G04-airbnb-react",
+    "liveLink": "https://harebnb-react.onrender.com/",
+    "technologies": ["react", "nodejs", "postgresql", "express"]
+  },
+  {
+    "id": 2,
+    "title": "Quickbooks to GoHighLevel CRM webhook",
+    "description": "Built for a client who wanted to have his QuickBooks details update his  CRM  Go High Level. This required me to familiarise myself with the development environment of both platforms as well as Oauth2. Whenever the user created or updated a customer in quickbooks the webhook was triggered and be passed to the app and after running through the authentication flow and then the data was passed to GoHighLevel's automation workflow a new customer would then be created as well as a tag saying they where awitin proposal. This saved the client from entering the same information twice on both platforms.",
+    "image": "/portfolio/quickbooks-gohighlevel-img.webp",
+    "githubLink": "https://github.com/PhilJG/quickbooks-gohighlevel-webhooks",
+    "technologies": ["express", "oauth"]
+  },
+  {
+    "id": 3,
+    "title": "Baybayin App",
+    "description": "Created with HTML, CSS, and vanilla Javascript. New letters appear in a popup and are saved in localStorage to prevent progress loss. It helps users learn baybayin, an ancient writing system in the Philippines.",
+    "image": "/portfolio/baybayin-screenshot.webp",
+    "githubLink": "https://github.com/PhilJG/baybayin",
+    "liveLink": "https://philjg.github.io/baybayin/",
+    "technologies": ["react", "javascript"]
+  },
+  {
+    "id": 4,
+    "title": "Tip calculator",
+    "description": "This project was originally developed from a Frontend Mentor project with vanilla Javascript. I wanted to do a more complex web app at the time but fell short of the functionality I wanted. I returned to the project after a year and did it with React and was very happy with the final result.",
+    "image": "/portfolio/tip-calculator-screenshot.webp",
+    "githubLink": "https://github.com/PhilJG/tip-calculator-react",
+    "liveLink": "https://stupendous-snickerdoodle-1b6341.netlify.app/",
+    "technologies": ["react", "javascript"]
+  },
+  {
+    "id": 5,
+    "title": "Advice generator",
+    "description": "I built this project to demonstrate my ability to fetch an API. I used the Advice Slip API for this purpose and the result is an app that generates a new piece of advice every time the dice is rolled.",
+    "image": "/portfolio/advice-screenshot.webp",
+    "githubLink": "https://github.com/PhilJG/advice-generator",
+    "liveLink": "https://philjg.github.io/advice-generator-app/",
+    "technologies": ["react", "javascript"]
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "title": "Full stack AirBnb clone",
+      "description": "In 2024 I particpated in a coding bootcamp where where I worked in a team and learned how to build a full stack application. I decided to build an AirBnb clone as my final project. The project was built with React, Node.js, Express, and SQL.",
+      "projectLink": "https://harebnb-react.onrender.com/",
+      "githubLink": "https://github.com/PhilJG/B11G04-airbnb-react",
+      "iframeSrc": "https://harebnb-react.onrender.com/",
+      "width": 1,
+      "projectImage": "../portfolio/harebnb-screenshots.webp",
+      "techStack": [
+        "node",
+        "javascript",
+        "express",
+        "postgres",
+        "tailwind",
+        "react",
+        "figma",
+        "nextjs"
+      ]
+    },
+    {
+      "title": "Quickbooks to GoHighLevel CRM webhook",
+      "description": "Built for a client who wanted to have his QuickBooks details update his  CRM  Go High Level. This required me to familiarise myself with the development environment of both platforms as well as Oauth2. Whenever the user created or updated a customer in quickbooks the webhook was triggered and be passed to the app and after running through the authentication flow and then the data was passed to GoHighLevel's automation workflow a new customer would then be created as well as a tag saying they where awitin proposal. This saved the client from entering the same information twice on both platforms.",
+      "githubLink": "https://github.com/PhilJG/quickbooks-gohighlevel-webhooks",
+      "width": 1,
+      "projectImage": "./portfolio/quickbooks-gohighlevel-img.webp",
+      "techStack": ["node", "javascript", "express"]
+    },
+    {
+      "title": "Baybayin App",
+      "description": "Created with HTML, CSS, and vanilla Javascript. New letters appear in a popup and are saved in localStorage to prevent progress loss. It helps users learn baybayin, an ancient writing system in the Philippines.",
+      "projectLink": "https://philjg.github.io/baybayin/",
+      "githubLink": "https://github.com/PhilJG/baybayin",
+      "iframeSrc": "https://philjg.github.io/baybayin/",
+      "width": 1,
+      "projectImage": "../portfolio/baybayin-screenshot.webp",
+      "techStack": ["javascript", "html", "css"]
+    },
+    {
+      "title": "Tip calculator",
+      "description": "This project was originally developed from a Frontend Mentor project with vanilla Javascript. I wanted to do a more complex web app at the time but fell short of the functionality I wanted. I returned to the project after a year and did it with React and was very happy with the final result.",
+      "projectLink": "https://stupendous-snickerdoodle-1b6341.netlify.app/",
+      "githubLink": "https://github.com/PhilJG/tip-calculator-react",
+      "iframeSrc": "https://stupendous-snickerdoodle-1b6341.netlify.app/",
+      "width": 1,
+      "projectImage": "../portfolio/tip-calculator-screenshot.webp",
+      "techStack": ["react", "javascript", "html", "css"]
+    },
+    {
+      "title": "Animated Preview Card Component",
+      "description": "I finished this project in around 4.5 to 5 hour sprint from start to finish with emphasis on making everything lining up as percisely with the mockup as possible. I also added css animation to the vehicle icons to make the project more dynamic.",
+      "projectLink": "https://philjg.github.io/3-column-preview-card-component-with-animation/",
+      "githubLink": "https://github.com/PhilJG/3-column-preview-card-component-with-animation",
+      "iframeSrc": "https://philjg.github.io/3-column-preview-card-component-with-animation/",
+      "width": 1,
+      "projectImage": "../portfolio/3-column-screenshot.webp",
+      "techStack": ["css", "javascript", "html"]
+    },
+    {
+      "title": "Advice generator",
+      "description": "I built this project to demonstrate my ability to fetch an API. I used the Advice Slip API for this purpose and the result is an app that generates a new piece of advice every time the dice is rolled.",
+      "projectLink": "https://philjg.github.io/advice-generator-app/",
+      "githubLink": "https://github.com/PhilJG/advice-generator",
+      "iframeSrc": "https://philjg.github.io/advice-generator-app/",
+      "width": 1,
+      "projectImage": "../portfolio/advice-screenshot.webp",
+      "techStack": ["javascript", "html", "css"]
+    }
+  ]
+}
