@@ -1,0 +1,113 @@
+{
+  "title": "Neuroprojection",
+  "summary": "A mirror for the mind.",
+  "hero": {
+    "type": "video",
+    "src": "/portfolio/neuroprojection/videos/neuroprojection-3.mp4",
+    "poster": "/portfolio/neuroprojection/hero.jpg",
+    "alt": "Neuroprojection installation video"
+  },
+  "context": {
+    "description": "Traditional brain-computer interfaces (BCIs) focus on control and diagnosis, creating a clinical distance between the user and their neural data. This approach misses the opportunity for personal reflection and aesthetic experience. The intent is to create an immersive, non-diagnostic experience where participants can witness their brainwave activity as a living, evolving visual environment. ",
+    "keyPoints": [
+      "Moves beyond clinical BCI applications to focus on personal reflection",
+      "Creates an aesthetic experience from neural data",
+      "Encourages personal interpretation rather than diagnosis",
+      "Serves as a mirror for self-observation and awareness"
+    ]
+  },
+  "systemOverview": {
+    "description": "EEG signals are captured in real-time, processed through frequency analysis, and mapped to visual parameters.",
+    "flow": [
+      "EEG headset captures raw brainwave signals",
+      "Signal processing extracts frequency bands (Alpha, Beta, Theta, Delta, Gamma)",
+      "Frequency data maps to visual parameters (color, motion, scale, complexity)",
+      "Real-time rendering engine generates projected environment",
+      "Participant observes and reflects on the visual feedback"
+    ]
+  },
+  "visualLanguage": {
+    "mappings": [
+      {
+        "frequency": "Alpha (8-13 Hz)",
+        "visual": "Flowing, organic forms; cool blues and greens; gentle motion",
+        "emotional": "Calm, meditative, reflective"
+      },
+      {
+        "frequency": "Beta (13-30 Hz)",
+        "visual": "Structured, geometric patterns; warm oranges and reds; rapid movement",
+        "emotional": "Active, focused, alert"
+      },
+      {
+        "frequency": "Theta (4-8 Hz)",
+        "visual": "Deep, layered textures; purples and indigos; slow, undulating motion",
+        "emotional": "Deep relaxation, creativity, introspection"
+      },
+      {
+        "frequency": "Delta (0.5-4 Hz)",
+        "visual": "Minimal, sparse forms; dark tones; near-stillness",
+        "emotional": "Deep sleep, unconscious states"
+      },
+      {
+        "frequency": "Gamma (30-100 Hz)",
+        "visual": "High-frequency patterns; bright whites and yellows; rapid oscillations",
+        "emotional": "Heightened awareness, binding of perception"
+      }
+    ]
+  },
+  "participantExperience": "Participants sit in a dimly lit space, wearing a comfortable EEG headset. As they close their eyes, breathe, or simply observe their thoughts, the projected environment responds in real-time. There is no instruction manual—only the invitation to notice. The experience is personal, non-judgmental, and open to interpretation. After 10-15 minutes, participants are invited to reflect on what they observed, though no data is recorded or analyzed.",
+  "gallery": [
+    {
+      "src": "/portfolio/neuroprojection/videos/neuroprojection-1.mp4",
+      "alt": "Neuroprojection installation video 1",
+      "type": "video",
+      "poster": "/portfolio/neuroprojection/hero.jpg",
+      "position": "afterParticipantExperience"
+    },
+    {
+      "src": "/portfolio/neuroprojection/videos/neuroprojection-3.mp4",
+      "alt": "Neuroprojection installation view 2",
+      "type": "video",
+      "position": "afterAbout"
+    },
+    {
+      "src": "/portfolio/neuroprojection/videos/neuroprojection-2.mp4",
+      "alt": "Neuroprojection installation view 3",
+      "type": "video",
+      "position": "afterSystemOverview"
+    }
+  ],
+  "ethics": {
+    "description": "Traditional brain-computer interfaces (BCIs) focus on control and diagnosis, creating a clinical distance between the user and their neural data. This approach misses the opportunity for personal reflection and aesthetic experience. The intent is to create an immersive, non-diagnostic experience where participants can witness their brainwave activity as a living, evolving visual environment.",
+    "keyPoints": [
+      "No data storage or transmission",
+      "Local, real-time processing only",
+      "No personal information collected",
+      "Participants remain anonymous",
+      "Non-medical, non-diagnostic experience"
+    ]
+  },
+  "applications": [
+    {
+      "title": "Meditation & Mindfulness",
+      "description": "Visual feedback for meditation practice, helping users observe their mental states without judgment."
+    },
+    {
+      "title": "Therapeutic Settings",
+      "description": "Non-invasive tool for therapists to facilitate discussions about mental states and emotional regulation."
+    },
+    {
+      "title": "Art Installations",
+      "description": "Public installations in galleries and museums, creating accessible entry points to neuroscience and self-reflection."
+    },
+    {
+      "title": "Research & Education",
+      "description": "Educational tool for understanding brainwave frequencies and their relationship to mental states, without the clinical framing."
+    }
+  ],
+  "meta": {
+    "title": "Neuroprojection — Real-Time Brainwave-Driven Visual Environments | Phil J Gray",
+    "description": "An interactive installation translating live EEG signals into evolving projected environments. Designed as a reflective, experiential mirror — not a diagnostic tool.",
+    "ogImage": "/portfolio/neuroprojection/og-image.jpg"
+  }
+}

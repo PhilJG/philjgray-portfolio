@@ -19,6 +19,7 @@
         "nextjs"
       ]
     },
+
     {
       "title": "Quickbooks to GoHighLevel CRM webhook",
       "description": "Built for a client who wanted to have his QuickBooks details update his  CRM  Go High Level. This required me to familiarise myself with the development environment of both platforms as well as Oauth2. Whenever the user created or updated a customer in quickbooks the webhook was triggered and be passed to the app and after running through the authentication flow and then the data was passed to GoHighLevel's automation workflow a new customer would then be created as well as a tag saying they where awitin proposal. This saved the client from entering the same information twice on both platforms.",

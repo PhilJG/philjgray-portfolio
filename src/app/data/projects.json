@@ -1,12 +1,11 @@
 [
   {
-    "id": 1,
-    "title": "Full stack AirBnb clone",
-    "description": "In 2024 I particpated in a coding bootcamp where where I worked in a team and learned how to build a full stack application. I decided to build an AirBnb clone as my final project. The project was built with React, Node.js, Express, and SQL.",
-    "image": "/portfolio/harebnb-screenshots.webp",
-    "githubLink": "https://github.com/PhilJG/B11G04-airbnb-react",
-    "liveLink": "https://harebnb-react.onrender.com/",
-    "technologies": ["react", "nodejs", "postgresql", "express"]
+    "id": 6,
+    "title": "Neuroprojection — Real-Time Brainwave-Driven Visual Environments",
+    "description": "An interactive installation translating live EEG signals into evolving projected environments. Designed as a reflective, experiential mirror. Participants witness their neural activity as a living, responsive artwork that shifts and transforms with their mental states, creating a unique opportunity for self-reflection and awareness.",
+    "image": "/portfolio/green_neuroprojection.webp",
+    "slug": "neuroprojection",
+    "hasDetailPage": true
   },
   {
     "id": 2,
