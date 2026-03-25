@@ -2,6 +2,7 @@ import "./globals.css";
 import { Providers } from "./providers";
 
 export const metadata = {
+  metadataBase: new URL("https://philjgray.ca"),
   title: "Phil's Portfolio",
   description: "See my work",
 };
